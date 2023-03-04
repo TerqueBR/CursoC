@@ -1,7 +1,9 @@
 //Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
-
 #include <stdio.h>
-
-int main(){
-    int n
+int main()
+{
+    int numero;
+    printf("digite um numero: ");
+    scanf("%d",&numero);
+    printf("o numero digitado foi: %d",numero);
 }
