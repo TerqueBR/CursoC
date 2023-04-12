@@ -1,5 +1,8 @@
-//Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+// Faça um programa que peça dois números e verifique (usando if e else) e imprima o maior deles.             
+
 #include <stdio.h>
-main(){
-    printf("hello world\n");
-}   
+int main() {
+
+    
+}
+
